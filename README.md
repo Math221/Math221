@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=false&vCenter=false&repeat=true&random=false&width=800&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Matheus.;Bem-vindo+ao+meu+perfil+do+GitHub.;Sou+estudante+de+F%C3%ADsica,+interessado+em+f%C3%ADsica+te%C3%B3rica,+cosmologia.+Python+e+programa%C3%A7%C3%A3o+matem%C3%A1tica.;Trabalho+com+visualiza%C3%A7%C3%B5es+usando+o+Manim.)](https://git.io/typing-svg)
 
 
-<img src="https://i.pinimg.com/originals/8e/71/05/8e7105859c1c2164f902b03abc6633ff.gif" alt="Pixel Art" align="right" width="200">
+<img src="https://i.pinimg.com/originals/60/75/0d/60750dbe8cf4d1da3446fbee8c2aeea1.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 

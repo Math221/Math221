@@ -11,7 +11,7 @@
 
   <img align="center" alt="Math-Manim" height="35" width="40" src="https://raw.githubusercontent.com/ManimCommunity/manim/d6f066c1318a3d131823926b7a5d31c2aaa48ccb/logo/light/transparent_background.svg">
 
-<img align="center" alt="Math-LaTeX" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg">
+<img align="center" alt="Math-LaTeX" height="35" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg](https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png)">
 
 <img align="center" alt="Math-MatLab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 

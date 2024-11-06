@@ -1,62 +1,37 @@
-# Modelo IFPR-ABNT
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=false&vCenter=false&repeat=true&random=false&width=800&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Matheus.;Bem-vindo+ao+meu+perfil+do+GitHub.;Sou+estudante+de+F%C3%ADsica,+interessado+em+f%C3%ADsica+te%C3%B3rica,+cosmologia.+Python+e+programa%C3%A7%C3%A3o+matem%C3%A1tica.;Trabalho+com+visualiza%C3%A7%C3%B5es+usando+o+Manim.)](https://git.io/typing-svg)
 
-Template LaTeX para documentos acadêmicos do Instituto Federal do Paraná (IFPR), seguindo as normas ABNT.
 
-## Estrutura do Repositório
+<img src="https://i.pinimg.com/originals/60/75/0d/60750dbe8cf4d1da3446fbee8c2aeea1.gif" alt="Pixel Art" align="right" width="200">
 
-```
-.
-├── docs/                    # Documentação
-│   ├── manual.pdf          # Manual do usuário em PDF
-│   └── manual.md           # Manual do usuário em Markdown
-├── exemplos/               # Exemplos de documentos
-│   ├── artigo/            # Exemplo de artigo
-│   ├── relatorio/         # Exemplo de relatório
-│   ├── resumo/            # Exemplo de resumo
-│   └── tcc/               # Exemplo de TCC
-├── scripts/               # Scripts de automação
-├── src/                   # Arquivos fonte do template
-│   └── ifpr-abnt.cls     # Classe principal
-├── RELATORIO.md          # Relatório técnico do projeto
-└── LICENSE               # Licença do projeto
-```
+### Technologies and tools:
 
-## Instalação
+<div style="display: inline_block"><br>
 
-1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/ifpr-abnt.git
-```
+  <img align="center" alt="Math-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-2. Copie o arquivo `src/ifpr-abnt.cls` para o diretório do seu projeto LaTeX.
+  <img align="center" alt="Math-Manim" height="35" width="40" src="https://raw.githubusercontent.com/ManimCommunity/manim/d6f066c1318a3d131823926b7a5d31c2aaa48ccb/logo/light/transparent_background.svg">
 
-3. No seu documento, use a classe com:
-```latex
-\documentclass{ifpr-abnt}
-```
+<img align="center" alt="Math-LaTeX" height="35" width="40" src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png">
 
-## Uso Rápido
+<img align="center" alt="Math-MatLab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 
-1. Escolha um dos exemplos da pasta `exemplos/` como base
-2. Copie os arquivos para seu diretório de trabalho
-3. Modifique conforme suas necessidades
-4. Compile com pdflatex ou latexmk
+<img align="center" alt="Math-MatPlotLib" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 
-## Funcionalidades
 
-- Formatação ABNT automática
-- Estilos personalizados para o IFPR
-- Suporte a diferentes tipos de documentos
-- Compatível com Overleaf
+<img align="center" alt="Math-wolfram-mathematica" height="35" width="40" src="https://avatars.githubusercontent.com/u/11549616?s=200&v=4">
+</div><br>
 
-## Documentação
+### GitHub Stats
 
-Consulte a pasta `docs/` para o manual completo de utilização.
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/Math221">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Math221&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math221&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
 
-## Licença
+### Contact
 
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-## Contribuição
-
-Contribuições são bem-vindas! Por favor, leia o guia de contribuição antes de submeter um pull request.
+<div> 
+ <a href="mailto:matheussoares.ivp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>

@@ -6,19 +6,24 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="Math-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="center" alt="Math-Manim" height="35" width="40" src="https://raw.githubusercontent.com/ManimCommunity/manim/d6f066c1318a3d131823926b7a5d31c2aaa48ccb/logo/light/transparent_background.svg">
-
-<img align="center" alt="Math-LaTeX" height="35" width="40" src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png">
-
-<img align="center" alt="Math-MatLab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-
-<img align="center" alt="Math-MatPlotLib" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-
-
-<img align="center" alt="Math-wolfram-mathematica" height="35" width="40" src="https://avatars.githubusercontent.com/u/11549616?s=200&v=4">
+  <a href="https://www.python.org" target="_blank">
+    <img align="center" alt="Math-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  <a href="https://www.manim.community/" target="_blank">
+    <img align="center" alt="Math-Manim" height="35" width="40" src="https://raw.githubusercontent.com/ManimCommunity/manim/d6f066c1318a3d131823926b7a5d31c2aaa48ccb/logo/light/transparent_background.svg">
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank">
+    <img align="center" alt="Math-LaTeX" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg">
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img align="center" alt="Math-MatLab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img align="center" alt="Math-MatPlotLib" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  </a>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank">
+    <img align="center" alt="Math-wolfram-mathematica" height="35" width="40" src="https://avatars.githubusercontent.com/u/11549616?s=200&v=4">
+  </a>
 </div><br>
 
 ### GitHub Stats

@@ -13,7 +13,7 @@
     <img align="center" alt="Math-Manim" height="35" width="40" src="https://raw.githubusercontent.com/ManimCommunity/manim/d6f066c1318a3d131823926b7a5d31c2aaa48ccb/logo/light/transparent_background.svg">
   </a>
   <a href="https://www.latex-project.org/" target="_blank">
-    <img align="center" alt="Math-LaTeX" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg">
+    <img align="center" alt="Math-LaTeX" height="35" width="40" src="https://img.icons8.com/?size=48&id=WBooq2dInw0x&format=png">
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img align="center" alt="Math-MatLab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />

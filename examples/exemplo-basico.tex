@@ -1,0 +1,84 @@
+%% exemplo-basico.tex
+%% Exemplo básico de uso da classe Lumina
+%% Autor: Matheus Rodrigues Soares
+%% Data: 2024-12-28
+
+\documentclass[
+    fonte=TimesNewRoman,    % Fonte padrão
+    nbr6024=2012,          % Versão da norma NBR 6024
+    layout=thesis,         % Layout para tese/dissertação
+    estilocaso=all         % Capitalização de títulos
+]{lumina}
+
+%% Pacotes adicionais (opcional)
+\usepackage[brazil]{babel}
+\usepackage{lipsum}        % Para texto de exemplo
+
+%% Configuração dos dados do trabalho
+\title{Exemplo de Trabalho Acadêmico com a Classe Lumina}
+\author{Nome do Autor}
+\date{2024}
+
+\instituicao{Universidade Federal do Exemplo}
+\programa{Programa de Pós-Graduação em Ciências}
+\orientador{Prof. Dr. Nome do Orientador}
+\local{Cidade}
+
+\begin{document}
+
+%% Elementos pré-textuais
+\capa
+\folhaderosto
+
+%% Sumário
+\tableofcontents
+\clearpage
+
+%% Elementos textuais
+\chapter{Introdução}
+
+\lipsum[1-2]
+
+Este é um exemplo básico de uso da classe Lumina para trabalhos acadêmicos em conformidade com as normas ABNT.
+
+\section{Objetivos}
+
+\lipsum[3]
+
+\subsection{Objetivo Geral}
+
+\lipsum[4]
+
+\subsection{Objetivos Específicos}
+
+\lipsum[5]
+
+\chapter{Metodologia}
+
+\lipsum[6-8]
+
+\section{Materiais e Métodos}
+
+\lipsum[9-10]
+
+\chapter{Resultados e Discussão}
+
+\lipsum[11-13]
+
+\section{Análise dos Dados}
+
+\lipsum[14-15]
+
+\chapter{Considerações Finais}
+
+\lipsum[16-17]
+
+%% Elementos pós-textuais
+\chapter*{Referências}
+\addcontentsline{toc}{chapter}{Referências}
+
+[1] EXEMPLO, A. B. \textbf{Título do trabalho}: subtítulo. Cidade: Editora, 2024.
+
+[2] OUTRO, C. D. Artigo de exemplo. \textbf{Revista Científica}, v. 1, n. 1, p. 1-10, 2024.
+
+\end{document}

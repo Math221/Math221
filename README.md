@@ -1,42 +1,117 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=false&vCenter=false&repeat=true&random=false&width=800&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Matheus.;Bem-vindo+ao+meu+perfil+do+GitHub.;Sou+estudante+de+F%C3%ADsica,+interessado+em+f%C3%ADsica+te%C3%B3rica,+cosmologia.+Python+e+programa%C3%A7%C3%A3o+matem%C3%A1tica.;Trabalho+com+visualiza%C3%A7%C3%B5es+usando+o+Manim.)](https://git.io/typing-svg)
+# Lumina
 
+[![License: LPPL](https://img.shields.io/badge/License-LPPL%20v1.3c-blue.svg)](https://www.latex-project.org/lppl.txt)
+[![LaTeX](https://img.shields.io/badge/LaTeX-XeLaTeX-orange.svg)](https://www.latex-project.org/)
+[![ABNT](https://img.shields.io/badge/Normas-ABNT-green.svg)](https://www.abnt.org.br/)
 
-<img src="https://i.pinimg.com/originals/60/75/0d/60750dbe8cf4d1da3446fbee8c2aeea1.gif" alt="Pixel Art" align="right" width="200">
+Uma classe LaTeX moderna e flexível para produção de trabalhos acadêmicos brasileiros em conformidade com as normas ABNT.
 
-### Technologies and tools:
+## 📖 Sobre o Projeto
 
-<div style="display: inline_block"><br>
-  <a href="https://www.python.org" target="_blank">
-    <img align="center" alt="Math-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-  <a href="https://www.manim.community/" target="_blank">
-    <img align="center" alt="Math-Manim" height="35" width="40" src="https://raw.githubusercontent.com/ManimCommunity/manim/d6f066c1318a3d131823926b7a5d31c2aaa48ccb/logo/light/transparent_background.svg">
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank">
-    <img align="center" alt="Math-LaTeX" height="35" width="40" src="https://img.icons8.com/?size=48&id=WBooq2dInw0x&format=png">
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img align="center" alt="Math-MatLab" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img align="center" alt="Math-MatPlotLib" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-  </a>
-  <a href="https://www.wolfram.com/mathematica/" target="_blank">
-    <img align="center" alt="Math-wolfram-mathematica" height="35" width="40" src="https://avatars.githubusercontent.com/u/11549616?s=200&v=4">
-  </a>
-</div><br>
+O **Lumina** é uma classe LaTeX desenvolvida por Matheus Rodrigues Soares, focada em um design limpo, usabilidade excepcional e estrita conformidade com as normas da ABNT. O nome 'Lumina' reflete sua missão principal: iluminar e simplificar o processo de formatação acadêmica, permitindo que pesquisadores e estudantes foquem no que realmente importa: seu conteúdo.
 
-### GitHub Stats
+### 🎯 Características Principais
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/Math221">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Math221&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math221&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
+- **📋 Conformidade ABNT**: Total aderência às normas brasileiras para trabalhos acadêmicos
+- **🎨 Design Moderno**: Interface limpa e profissional
+- **⚙️ Flexibilidade Granular**: Controle preciso sobre todos os aspectos do documento
+- **🔤 Suporte Unicode**: Manuseio impecável de caracteres através do XeLaTeX
+- **📚 Multi-versão**: Suporte a diferentes versões das normas ABNT
 
-### Contact
+## 🚀 Recursos Avançados
 
-<div> 
- <a href="mailto:matheussoares.ivp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### Controle de Versões de Normas
+```latex
+\documentclass[nbr6024=2012]{lumina}  % NBR 6024:2012
+\documentclass[nbr6024=2003]{lumina}  % NBR 6024:2003
+```
+
+### Seleção de Fontes
+```latex
+\documentclass[fonte=Arial]{lumina}      % Arial
+\documentclass[fonte=TimesNewRoman]{lumina}  % Times New Roman (padrão)
+```
+
+### Estilos de Documento
+```latex
+\documentclass[layout=article]{lumina}     % Formato de artigo
+\documentclass[estilocaso=all]{lumina}     % Controle de capitalização
+```
+
+## 📋 Especificações Técnicas
+
+- **Motor**: XeLaTeX
+- **Classe Base**: memoir
+- **Licença**: LaTeX Project Public License (LPPL) v1.3c
+- **Tipos de Documento**: Teses, dissertações, monografias, artigos
+- **Compatibilidade**: OpenType e TrueType fonts
+
+## 🛠️ Instalação
+
+### Requisitos
+- Distribuição LaTeX completa (TeX Live recomendado)
+- XeLaTeX
+- Pacotes memoir e dependências
+
+### Instalação Manual
+```bash
+# Clone o repositório
+git clone https://github.com/Math221/lumina.git
+
+# Copie os arquivos para seu diretório local do LaTeX
+cp lumina.cls /path/to/texmf/tex/latex/lumina/
+```
+
+## 📝 Uso Básico
+
+```latex
+\documentclass[
+    fonte=TimesNewRoman,
+    nbr6024=2012,
+    layout=thesis
+]{lumina}
+
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+
+\title{Título do Trabalho}
+\author{Nome do Autor}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+% Seu conteúdo aqui
+
+\end{document}
+```
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Por favor:
+
+1. Fork o projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
+## 📄 Licença
+
+Este projeto está licenciado sob a LaTeX Project Public License (LPPL) v1.3c - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+## 👤 Autor
+
+**Matheus Rodrigues Soares**
+- Email: matheussoares.ivp@gmail.com
+- GitHub: [@Math221](https://github.com/Math221)
+
+## 🙏 Agradecimentos
+
+- Comunidade LaTeX brasileira
+- Desenvolvedores da classe memoir
+- Equipe do XeLaTeX
+
+---
+
+*Iluminando o caminho para trabalhos acadêmicos de excelência.*

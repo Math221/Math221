@@ -1,0 +1,92 @@
+# Arquivos temporários do LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.synctex(busy)
+*.run.xml
+*.bcf
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Arquivos de backup
+*~
+*.backup
+*.bak
+
+# Arquivos de compilação XeLaTeX
+*.xdv
+
+# Arquivos do BibTeX
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+
+# Arquivos do makeindex
+*.idx
+*.ilg
+*.ind
+
+# Arquivos do glossário
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+
+# Arquivos do algoritmo
+*.alg
+*.loa
+
+# Arquivos do acrônimo
+*.acn
+*.acr
+*.alg
+
+# Diretórios de saída
+/build/
+/dist/
+/output/
+
+# Arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos do editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de teste
+/test_output/
+/temp/
+
+# Logs
+logs/
+*.log
+
+# Arquivos PDF de exemplo (manter apenas os essenciais)
+examples/*.pdf
+doc/*.pdf
+
+# Exceto documentação oficial
+!doc/manual-oficial.pdf
